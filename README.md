@@ -1,5 +1,3 @@
-# workout-tracking-map
-
 Workout tracking app project
 Uses Leaflet library and localStorage API
 
